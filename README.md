@@ -12,4 +12,4 @@ Summary:
 >main.py – Main application file;
 >orchestrator.py – Handles agent coordination;
 >agents.py – Agent logic;
->static/ – Dashboard frontend files
+>index.html – Dashboard frontend files
