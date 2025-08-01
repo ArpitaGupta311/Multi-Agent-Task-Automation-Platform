@@ -9,7 +9,7 @@ How to Use:
 -The agents will execute the task and show the plan and activity log.
 
 Summary:
->main.py – Main application file
->orchestrator.py – Handles agent coordination
->agents.py – Agent logic
+>main.py – Main application file;
+>orchestrator.py – Handles agent coordination;
+>agents.py – Agent logic;
 >static/ – Dashboard frontend files
